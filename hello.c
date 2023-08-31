@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-print("hello FYCS");
-print("this is updated")  
+printf("hello FYCS");
+printf("this is updated")  
 }
